@@ -5,7 +5,6 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "deploy-commands": "node src/deploy-commands.js",
     "dev": "nodemon src/index.js"
   },
   "engines": {
